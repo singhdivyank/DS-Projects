@@ -3,7 +3,7 @@ Complete list of all completed Data Science projects
 | Project Name | Description | Domain | Technical Stack |
 | ------------ | ----------- | ------ | --------------- |
 | [Partisanship Analysis](https://github.com/singhdivyank/PartisanshipClassifier) | perform analysis of newspaper issues after predicting partisanship using Machine Learning algorithms after feature extraction | Information Retrieval, Data Analysis, Data Visualization | PySpark, Seaborn, SQL |
-| [Diabetes Prediction]() | predict diabetes based on a user profile using a ML algoritm | Supervised Machine Learning | XGBoost |
+| [Diabetes Prediction](https://github.com/singhdivyank/Sweet-Sense-AI) | predict diabetes based on a user profile using a ML algoritm | Supervised Machine Learning | XGBoost |
 | [Jhakaas Papervala]() | use collaborative filtering to recommend articles | Recommendation System | LangChain, Python, Jupyter |
 | [Dr. Jarvis](https://github.com/singhdivyank/voice-assistant) | healthcare voice assistant in regional Indian languages | Natural Language Processing | Gemini, LangChain, Python, gTTS |
 | [QnA bot](https://github.com/singhdivyank/llama2) | document based question answering chatbot implemented with the RAG architecture (**using Llama model on CPU and Hugging Face API**) | Generative AI | Llama2, Python, LangChain |
